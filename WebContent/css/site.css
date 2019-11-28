@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+
+	.btn{
+	
+	background: grey;
+	padding: 10px;
+	margin 10px;
+	border-radius: 10px
+
+	
+
+}
+	.btn-delete{
+	
+	background: red;
+	padding: 10px;
+	margin 10px;
+	border-radius: 10px
+
+	
+
+}
+
+.td {
+	padding: 20px 10px;
+}
+
